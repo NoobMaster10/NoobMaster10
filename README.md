@@ -5,4 +5,4 @@ estou aprendendo a progamar
 -badge&logo=javascript&logoColor=F7DF1E)
 <div> 
 <img aling="center" alt="Scratch" heigth="50" width="60" src="(https://img.shields.io/badge/Scratch-4D97FF?style=for-the-b
-adge&logo=Scratch&logoColor=white"
+adge&logo=Scratch&logoColor=white">
